@@ -1,3 +1,32 @@
 {
-    "results": []
+    "results": [
+        {
+            "competitor": {
+                "name": "Quizlet",
+                "developer": "Quizlet",
+                "price": "Free",
+                "description": "A learning platform that helps students study using flashcards, practice tests, and other study tools.",
+                "genre": "Education",
+                "rating": 4.7,
+                "ratingCount": 100000,
+                "appStoreUrl": "https://example.com",
+                "artworkUrl": "https://example.com/image.jpg"
+            },
+            "similarityScore": 0.4598
+        },
+        {
+            "competitor": {
+                "name": "Discord",
+                "developer": "Discord Inc.",
+                "price": "Free",
+                "description": "A communication platform where communities can create servers, chat, and communicate with other users.",
+                "genre": "Social Networking",
+                "rating": 4.5,
+                "ratingCount": 50000,
+                "appStoreUrl": "https://example.com",
+                "artworkUrl": "https://example.com/image.jpg"
+            },
+            "similarityScore": 0.3104
+        }
+    ]
 }

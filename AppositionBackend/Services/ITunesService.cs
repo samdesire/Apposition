@@ -80,16 +80,12 @@ public class ItunesResponse
 public class ItunesApp
 {
     public string? TrackName { get; set; }
-
+    public string? ArtistName { get; set; }
+    public string? FormattedPrice { get; set; }
     public string? Description { get; set; }
-
     public string? PrimaryGenreName { get; set; }
-
     public double? AverageUserRating { get; set; }
-
     public int? UserRatingCount { get; set; }
-
     public string? TrackViewUrl { get; set; }
-
     public string? ArtworkUrl100 { get; set; }
 }
